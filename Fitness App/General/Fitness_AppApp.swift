@@ -2,7 +2,7 @@
 //  Fitness_AppApp.swift
 //  Fitness App
 //
-//  Created by Alexander on 05.05.2022.
+//  Created by Artem Krasnenko on 05.05.2022.
 //
 
 import SwiftUI
